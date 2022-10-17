@@ -1,0 +1,22 @@
+@import 'colors';
+
+.canvas {
+  font: 10px sans-serif;
+  background-color: $bgcolor;
+  width: 2480px;
+  height: 2800px;
+}
+
+.legend {
+  background-color: $bgcolor;
+  width: 500px;
+  height: 400px;
+}
+.dot {
+  fill: $color;
+  stroke: black;
+}
+
+#webpack-img {
+  width: 50px;
+}
