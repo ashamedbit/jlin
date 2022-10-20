@@ -2,6 +2,9 @@
   "name": "example",
   "version": "1.0.0",
   "description": "An example web app",
+  "engines": {
+    "node": "18.x"
+  },
   "main": "app.js",
   "scripts": {
     "build": "webpack",
