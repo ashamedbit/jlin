@@ -72,7 +72,7 @@ const config = {
     contentBase: path.resolve(__dirname, "./public/assets/media"),
     compress: true,
     // open app in localhost:8000
-    port: 8000,
+    port: process.env.PORT || 8000,
     stats: 'errors-only',
     open: true
   },
