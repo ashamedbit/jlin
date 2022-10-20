@@ -2,7 +2,7 @@ var $ = require('jquery')
 var d3 = require('d3')
 //var university = 'uw'
 
-
+$(document).ready(function() {
    
     
     d3.select('#helloworld')
@@ -396,3 +396,6 @@ function ForceGraph({
 
   return Object.assign(svg.node(), {scales: {color}});
 }
+
+   
+})
