@@ -1,1 +1,1 @@
-web: npm start --port=$PORT
+web: npm start --port=$PORT --Voila.ip=0.0.0.0
