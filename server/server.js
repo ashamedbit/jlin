@@ -19,6 +19,6 @@ app.use(methodOverride())
 app.use(express.static('public'))
 app.use('/data', express.static('staticdata'))
 // start listening
-app.listen(8000, function() {
+app.listen(process.env.PORT || 8000, function() {
 	console.log('Server: listening...')
 })
