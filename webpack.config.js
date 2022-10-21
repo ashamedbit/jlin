@@ -62,7 +62,7 @@ const config = {
   plugins: [
     new CleanWebpackPlugin(['public']),
     new HtmlWebpackPlugin({
-      template: 'index.html'
+      template: './index.html'
     }),
     extractPlugin
   ],
