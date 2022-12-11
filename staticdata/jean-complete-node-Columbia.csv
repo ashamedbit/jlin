@@ -1,0 +1,47 @@
+Id,Label,Description,Area
+S Chang,Shih-Fu Chang,8305.750793650792,vision
+Z Yu,Zhou Yu,16325.111111111113,nlp
+R Zemel,Richard S. Zemel,157552.81428571438,ml
+E Bareinboim,Elias Bareinboim,7193.15238095238,ml
+D Blei,David M. Blei,64214.661904761895,ml
+S Jana,Suman Jana,24347.104761904797,security
+C Zheng,Changxi Zheng,8538.958730158733,graphics
+T Roughgarden,Timothy Roughgarden,27091.13333333335,ecom
+R Servedio,Rocco A. Servedio,1207.2333333333333,theory
+C Vondrick,Carl Vondrick,23861.952380952378,vision
+S Song,Shuran Song,40581.83968253973,vision
+K McKeown,Kathy McKeown,28074.288095238095,nlp
+E Katz-Bassett,Ethan Katz-Bassett,15740.276190476194,metrics
+J Yang,Junfeng Yang,63820.49285714303,os
+P Allen,Peter K. Allen,978.1666666666669,robotics
+A Andoni,Alexandr Andoni,17394.866666666672,theory
+B Ray,Baishakhi Ray,15156.033333333326,se
+R Gu,Ronghui Gu,2667.50238095238,os
+J Nieh,Jason Nieh,14043.809523809527,os
+T Jebara,Tony Jebara,15783.290476190485,ml
+C Papadimitriou,Christos H. Papadimitriou,40661.7380952381,ecom
+L Carloni,Luca P. Carloni,2327.42380952381,eda
+T Malkin,Tal Malkin,21288.61904761906,crypto
+S Nayar,Shree K. Nayar,4202.4,vision
+M Yannakakis,Mihalis Yannakakis,61480.48333333335,theory
+L Chilton,Lydia B. Chilton,2124.0000000000005,hci
+J Alman,Josh Alman,1249.0,theory
+A Chaintreau,Augustin Chaintreau,15410.17142857143,metrics
+A Cidon,Asaf Cidon,4957.790476190475,networks
+S Feiner,Steven K. Feiner,34366.761904762,hci
+K Ross,Kenneth A. Ross,11998.257142857152,db
+P Belhumeur,Peter N. Belhumeur,7766.47142857143,vision
+M Kim,Martha A. Kim,30591.071428571373,arch
+G Kaiser,Gail E. Kaiser,6848.919047619049,se
+S Bellovin,Steven M. Bellovin,1395.87619047619,security
+G Zussman,Gil Zussman,584.357142857143,metrics
+I Pe'er,Itsik Pe'er,10509.823809523816,comp. bio
+S Stolfo,Salvatore J. Stolfo,20778.37142857142,security
+L Gravano,Luis Gravano,35042.79999999998,db
+J Hirschberg,Julia Hirschberg,25418.023809523806,nlp
+V Misra,Vishal Misra,30286.190476190473,web+ir
+S Edwards,Stephen A. Edwards,3865.571428571429,Unknown
+Y Erlich,Yaniv Erlich,11519.152380952386,Unknown
+S Nowick,Steven M. Nowick,389.99999999999994,eda
+A Salleb-Aouissi,Ansaf Salleb-Aouissi,1524.8380952380949,Unknown
+R Wright,Rebecca N. Wright,1348.5119047619046,Unknown

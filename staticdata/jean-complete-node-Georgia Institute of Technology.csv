@@ -1,0 +1,89 @@
+Id,Label,Description,Area
+J Rehg,James M. Rehg,2019.9095238095235,vision
+T Kim,Taesoo Kim,28859.095238095266,security
+F Dellaert,Frank Dellaert,48514.728571428546,robotics
+D Yang,Diyi Yang,52448.588095238134,nlp
+T Zhao,Tuo Zhao,13762.542857142857,ml
+W Lee,Wenke Lee,109611.01269841263,security
+J Hays,James Hays,134715.5976190475,vision
+M Qureshi,Moinuddin K. Qureshi,2126.166666666667,arch
+S Chernova,Sonia Chernova,14331.319047619047,robotics
+M Bailey,Michael Bailey,31247.380952380958,security
+D Genkin,Daniel Genkin,19623.233333333334,security
+T Plötz,Thomas Plötz,6951.707142857139,hci
+M Choudhury,Munmun De Choudhury,221.75,hci
+Z Kira,Zsolt Kira,11777.48412698412,vision
+S Vempala,Santosh S. Vempala,34587.785714285696,theory
+J Hoffman,Judy Hoffman,82204.78095238096,vision
+J Abernethy,Jacob D. Abernethy,7587.309523809522,ml
+I Essa,Irfan A. Essa,30631.811904761915,vision
+A Endert,Alex Endert,8474.323809523812,visualization
+T Krishna,Tushar Krishna,15814.017460317462,arch
+V Kolesnikov,Vladimir Kolesnikov,9269.03809523809,security
+T Starner,Thad Starner,37394.25000000001,hci
+A Thomaz,Andrea Thomaz,1618.7190476190478,robotics
+A Keromytis,Angelos D. Keromytis,7633.000000000001,security
+H Park,Haesun Park,35037.72936507943,ml
+A Ritter,Alan Ritter,21191.033333333336,nlp
+D Xu,Danfei Xu,48865.766666666634,robotics
+P Chau,Polo Chau,359.6000000000001,visualization
+X Chu,Xu Chu,10334.680952380948,db
+J Stasko,John T. Stasko,25332.180952380942,visualization
+J Arulraj,Joy Arulraj,4604.173809523811,db
+M Antonakakis,Manos Antonakakis,24313.06666666667,security
+R Beyah,Raheem A. Beyah,6869.476984126989,security
+M Riedl,Mark O. Riedl,3746.7976190476184,ai
+R Vuduc,Richard W. Vuduc,16964.369047619064,hpc
+S Aluru,Srinivas Aluru,11591.22063492062,hpc
+H Kim,Hyesoon Kim,48740.91507936505,arch
+A Parker,Andrea G. Parker,9764.404761904758,hci
+B Prakash,B. Aditya Prakash,9.333333333333334,ml
+G Turk,Greg Turk,34446.52857142858,graphics
+A Dainotti,Alberto Dainotti,6974.87142857143,metrics
+A Gray,Alexander G. Gray,458.3380952380952,ml
+M Singh,Mohit Singh,21726.7452380952,theory
+F Monrose,Fabian Monrose,22349.99047619046,security
+P Pearce,Paul Pearce,5448.209523809524,security
+B Saltaformaggio,Brendan Saltaformaggio,2805.561904761904,security
+S Kumar,Srijan Kumar,76016.41904761906,web+ir
+A Orso,Alessandro Orso,19179.44761904761,se
+Q Zhang,Qirun Zhang,41798.65873015875,pl
+R Arriaga,Rosa I. Arriaga,502.6666666666667,hci
+V Sarkar,Vivek Sarkar,28828.1142857143,hpc
+A Daglis,Alexandros Daglis,1030.4285714285716,arch
+M Gombolay,Matthew C. Gombolay,1405.4523809523812,robotics
+M Prvulovic,Milos Prvulovic,8691.0619047619,arch
+L Wilcox,Lauren Wilcox,1370.7619047619044,hci
+J Xu,Jun (Jim) Xu,59144.521428571556,metrics
+W Edwards,W. Keith Edwards,94.82857142857142,hci
+J Jaeger,Joseph Jaeger,3151.9428571428575,crypto
+A Bruckman,Amy S. Bruckman,16501.533333333336,hci
+R Grinter,Rebecca E. Grinter,1356.4666666666667,hci
+A Boldyreva,Alexandra Boldyreva,16582.833333333332,security
+D Devecsery,David Devecsery,660.95,arch
+S Pande,Santosh Pande,658.2999999999997,hpc
+Ü Çatalyürek,Ümit V. Çatalyürek,40.14285714285715,hpc
+M Ahamad,Mustaque Ahamad,16284.642857142871,security
+R Basole,Rahul C. Basole,119.46666666666665,visualization
+A Dhekne,Ashutosh Dhekne,1345.5333333333333,mobile
+C Pu,Calton Pu,40986.7706349206,security
+H Ravichandar,Harish Ravichandar,1185.8380952380955,robotics
+S Zonouz,Saman A. Zonouz,4731.723809523814,security
+R Arkin,Ronald C. Arkin,1159.1238095238095,robotics
+C Dovrolis,Constantinos Dovrolis,23678.080952380966,ml
+S Navathe,Shamkant B. Navathe,4288.928571428571,db
+D Randall,Dana Randall,2640.633333333333,theory
+A Tumanov,Alexey Tumanov,12908.890476190476,os
+A Wu,Anqi Wu,1560.6904761904761,ml
+E Zegura,Ellen Zegura,22142.319047619076,networks
+M Ammar,Mostafa H. Ammar,23908.016666666677,networks
+A Gavrilovska,Ada Gavrilovska,5354.561904761904,hpc
+U Ramachandran,Umakishore Ramachandran,8999.709523809528,db
+C Testart,Cecilia Testart,259.2857142857143,metrics
+B Walker,Bruce N. Walker,1881.1095238095231,hci
+T Balch,Tucker R. Balch,25424.980952380934,Unknown
+T Isaac,Tobin Isaac,1142.5476190476193,hpc
+M Jackson,Melody Moore Jackson,1286.5380952380956,hci
+A Antón,Annie I. Antón,907.0,Unknown
+T Conte,Thomas M. Conte,760.7619047619042,Unknown
+N Imam,Nabil Imam,1307.3999999999996,Unknown

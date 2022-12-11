@@ -1,0 +1,67 @@
+Id,Label,Description,Area
+D Rus,Daniela Rus,105376.03333333344,robotics
+W Freeman,William T. Freeman,21503.023809523802,vision
+W Matusik,Wojciech Matusik,48527.17380952384,graphics
+F Durand,Frédo Durand,102415.66031746031,graphics
+D Katabi,Dina Katabi,99102.85476190476,networks
+C Daskalakis,Constantinos Daskalakis,20260.480952380945,theory
+S Madden,Samuel Madden,119028.38095238093,db
+M Alizadeh,Mohammad Alizadeh,34459.976190476154,networks
+S Jegelka,Stefanie Jegelka,23009.104761904768,ml
+R Tedrake,Russ Tedrake,25722.500000000015,robotics
+V Vaikuntanathan,Vinod Vaikuntanathan,47979.99999999997,crypto
+A Solar-Lezama,Armando Solar-Lezama,16127.271428571441,ml
+P Indyk,Piotr Indyk,65853.40238095241,theory
+P Isola,Phillip Isola,209084.1571428571,vision
+J Andreas,Jacob Andreas,17365.34761904762,nlp
+M Rinard,Martin C. Rinard,31709.24285714286,pl
+V Williams,Virginia Vassilevska Williams,253.0,theory
+N Zeldovich,Nickolai Zeldovich,34346.96190476191,os
+A Moitra,Ankur Moitra,18945.71428571429,theory
+H Balakrishnan,Hari Balakrishnan,464230.6952380954,networks
+D Sontag,David A. Sontag,32152.759523809513,ml
+D Shah,Devavrat Shah,41242.51428571428,ml
+R Williams,Ryan Williams,3405.995238095239,theory
+A Madry,Aleksander Madry,39104.02857142857,ml
+P Jaillet,Patrick Jaillet,12238.095238095228,ml
+D Karger,David R. Karger,171701.80476190496,hci
+F Adib,Fadel Adib,15825.8380952381,networks
+A Chlipala,Adam Chlipala,4274.576190476192,pl
+J Ragan-Kelley,Jonathan Ragan-Kelley,18541.704761904766,graphics
+M Carbin,Michael Carbin,17990.34761904762,pl
+S Amarasinghe,Saman P. Amarasinghe,35100.03809523807,arch
+T Broderick,Tamara Broderick,5171.761904761906,ml
+S Hopkins,Samuel B. Hopkins,1209.6666666666665,theory
+L Daniel,Luca Daniel,5701.938095238095,ml
+C Delimitrou,Christina Delimitrou,8574.73333333333,arch
+M Ghobadi,Manya Ghobadi,8564.700000000004,networks
+V Sze,Vivienne Sze,25191.35714285713,robotics
+J Shun,Julian Shun,9997.885714285718,db
+A Ozdaglar,Asuman E. Ozdaglar,6943.666666666667,ml
+A Belay,Adam Belay,8551.333333333332,os
+B Berger,Bonnie Berger,31904.640476190478,comp. bio
+D Boning,Duane S. Boning,10370.185714285724,ml
+E Demaine,Erik D. Demaine,9586.728571428579,theory
+M Ghassemi,Marzyeh Ghassemi,20649.29047619049,ml
+P Szolovits,Peter Szolovits,21679.247619047605,ai
+R Rubinfeld,Ronitt Rubinfeld,18334.938095238093,theory
+S Teller,Seth J. Teller,29809.490476190487,robotics
+C Uhler,Caroline Uhler,5272.252380952381,ml
+D Huttenlocher,Daniel P. Huttenlocher,40545.96190476188,web+ir
+A Agarwal,Anant Agarwal,43842.65714285712,eda
+R Rivest,Ronald L. Rivest,7705.9238095238115,security
+M Kellis,Manolis Kellis,46533.20952380953,comp. bio
+A Willsky,Alan S. Willsky,13269.814285714287,ml
+C Leiserson,Charles E. Leiserson,1196.6666666666667,Unknown
+M Médard,Muriel Médard,70139.50952380952,Unknown
+M Shulaker,Max M. Shulaker,283.21904761904756,eda
+J Tsitsiklis,John N. Tsitsiklis,17840.223809523814,metrics
+P Golland,Polina Golland,129.6666666666667,Unknown
+J Lang,Jeffrey H. Lang,4402.876190476191,Unknown
+H Lee,Hae-Seung Lee,38104.0579365079,Unknown
+A Lo,Andrew Lo,38.72142857142858,Unknown
+N Lynch,Nancy A. Lynch,24778.94761904762,Unknown
+P Parrilo,Pablo A. Parrilo,2039.5000000000002,Unknown
+D Perreault,David J. Perreault,1191.233333333334,Unknown
+R Sarpeshkar,Rahul Sarpeshkar,15784.195238095237,Unknown
+R Weiss,Ron Weiss,1328.0952380952388,Unknown

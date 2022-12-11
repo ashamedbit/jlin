@@ -1,0 +1,20 @@
+Source,Target,Type,Id,Label
+Y Bengio,A Courville,Undirected,1,103760.24761904762
+Y Bengio,C Pal,Undirected,2,2722.2142857142862
+Y Bengio,L Paull,Undirected,3,80.05714285714286
+Y Bengio,S Lacoste-Julien,Undirected,4,51.33333333333333
+Y Bengio,I Mitliagkas,Undirected,5,77.33333333333333
+Y Bengio,I Rish,Undirected,6,8.4
+Y Bengio,G Lajoie,Undirected,7,97.44761904761904
+Y Bengio,G Lapalme,Undirected,8,54.66666666666667
+Y Bengio,J Meunier,Undirected,9,12.5
+A Courville,C Pal,Undirected,10,4428.971428571429
+A Courville,I Mitliagkas,Undirected,11,472.3333333333333
+S Lacoste-Julien,I Mitliagkas,Undirected,12,113.8
+I Rish,I Mitliagkas,Undirected,13,0.0
+I Rish,G Lajoie,Undirected,14,8.4
+G Berseth,C Pal,Undirected,15,1.3333333333333333
+G Berseth,L Paull,Undirected,16,0.0
+G Lajoie,I Mitliagkas,Undirected,17,8.0
+A Tapp,P McKenzie,Undirected,18,97.33333333333333
+G Brassard,A Tapp,Undirected,19,4835.533333333335

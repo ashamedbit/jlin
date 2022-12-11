@@ -1,0 +1,54 @@
+Id,Label,Description,Area
+K Cho,Kyunghyun Cho,307017.10634920653,nlp
+M Mohri,Mehryar Mohri,40279.24285714286,ml
+A Wilson,Andrew Gordon Wilson,5225.552380952381,ml
+D Panozzo,Daniele Panozzo,10537.261904761905,graphics
+D McCoy,Damon McCoy,50040.261904761916,security
+J Bruna,Joan Bruna,46783.152380952364,ml
+Y Dodis,Yevgeniy Dodis,49212.933333333334,crypto
+C Silva,Cláudio T. Silva,12213.538095238115,visualization
+S Bowman,Samuel R. Bowman,1159.5238095238092,nlp
+S Xie,Saining Xie,57761.52063492065,vision
+C Musco,Christopher Musco,6194.861904761907,theory
+A Panda,Aurojit Panda,26232.219047619037,networks
+L Pinto,Lerrel Pinto,9560.45,robotics
+R Ranganath,Rajesh Ranganath,27831.300000000014,ml
+S Garg,Siddharth Garg,35088.78333333336,eda
+R Karri,Ramesh Karri,23679.561904761897,eda
+Q Lei,Qi Lei,4849.461904761905,ml
+M Ren,Mengye Ren,13415.210317460318,vision
+Q Sun,Qi Sun,6299.261111111113,eda
+A Sivaraman,Anirudh Sivaraman,14355.223809523812,networks
+C Hegde,Chinmay Hegde,8289.48095238095,ml
+T Linzen,Tal Linzen,5784.1809523809525,nlp
+M Walfish,Michael Walfish,11793.819047619045,security
+J Bonneau,Joseph Bonneau,30099.628571428573,security
+J Freire,Juliana Freire,36688.523809523795,db
+L Subramanian,Lakshminarayanan Subramanian,25128.271428571432,ml
+T Wies,Thomas Wies,998.0857142857142,logic
+M Ball,Marshall Ball,1757.3714285714284,crypto
+R Greenstadt,Rachel Greenstadt,6249.661904761902,security
+J Tassarotti,Joseph Tassarotti,1363.9309523809522,pl
+R Grishman,Ralph Grishman,33547.9666666667,nlp
+O Nov,Oded Nov,12849.888095238095,hci
+J Stoyanovich,Julia Stoyanovich,5478.890476190479,db
+B Dolan-Gavitt,Brendan Dolan-Gavitt,9468.333333333328,security
+B Goldberg,Benjamin Goldberg,504.1761904761906,robotics
+J Cappos,Justin Cappos,3983.714285714289,security
+D Huang,Danny Yuxing Huang,11457.694444444442,web+ir
+K Perlin,Ken Perlin,16603.93333333335,hci
+B Aronov,Boris Aronov,8203.285714285717,theory
+N Memon,Nasir D. Memon,31392.514285714304,security
+D Shasha,Dennis E. Shasha,29909.04761904763,db
+S Chopra,Sumit Chopra,43478.46190476192,nlp
+P Cousot,Patrick Cousot,24814.938095238103,pl
+D Neill,Daniel B. Neill,1016.1380952380953,ml
+V Shoup,Victor Shoup,19307.633333333335,crypto
+T Suel,Torsten Suel,15115.90952380952,web+ir
+A Nealen,Andrew Nealen,8559.200000000004,graphics
+J Togelius,Julian Togelius,26640.147619047602,ai
+E Wong,Edward K. Wong,10536.238095238088,vision
+R Bonneau,Richard Bonneau,21270.633333333324,Unknown
+D Geiger,Davi Geiger,10528.861904761907,Unknown
+G Gerig,Guido Gerig,50748.80000000002,Unknown
+L Hellerstein,Lisa Hellerstein,4279.300000000003,Unknown

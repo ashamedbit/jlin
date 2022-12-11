@@ -1,0 +1,91 @@
+Id,Label,Description,Area
+H Ji,Heng Ji,27902.084126984126,nlp
+A Schwing,Alexander G. Schwing,7719.252380952383,vision
+J Sun,Jimeng Sun,371581.43095238,ml
+H Tong,Hanghang Tong,184557.66190476145,ml
+J Torrellas,Josep Torrellas,31460.502380952366,arch
+K Hauser,Kris Hauser,7535.23333333333,robotics
+J He,Jingrui He,23649.5388888889,ml
+N Kim,Nam Sung Kim,2024.453968253968,arch
+N Amato,Nancy M. Amato,1518.952380952381,robotics
+S Wang,Shaowen Wang,68258.31349206355,web+ir
+C Fletcher,Christopher W. Fletcher,10810.833333333328,arch
+W Hwu,Wen-Mei W. Hwu,6806.114285714289,arch
+R Choudhury,Romit Roy Choudhury,265.3714285714285,mobile
+D Hoiem,Derek Hoiem,54823.15952380952,vision
+T Xu,Tianyin Xu,8743.90079365079,os
+T Abdelzaher,Tarek F. Abdelzaher,50549.91984126987,embedded
+C Zhai,ChengXiang Zhai,24946.235714285714,web+ir
+D Chen,Deming Chen,109253.82539682544,eda
+K Karahalios,Karrie Karahalios,19719.085714285728,hci
+D Forsyth,David A. Forsyth,43183.20952380953,vision
+S Lazebnik,Svetlana Lazebnik,45800.73809523813,vision
+Y Wang,Yu-Xiong Wang,165556.23809523834,vision
+O Koyejo,Oluwasanmi Koyejo,4136.466666666668,ml
+T Bretl,Timothy Bretl,7203.438095238102,robotics
+D Khurana,Dakshita Khurana,2080.1666666666665,crypto
+S Ghose,Saugata Ghose,12545.95952380952,arch
+L Zhang,Lingming Zhang,261715.04761904705,se
+K Levchenko,Kirill Levchenko,35455.04285714284,security
+K Chang,Kevin Chen-Chuan Chang,18412.419047619056,web+ir
+C Chekuri,Chandra Chekuri,33081.328571428596,theory
+D Marinov,Darko Marinov,28826.20952380953,se
+R Mehta,Ruta Mehta,1782.9523809523819,theory
+L Kalé,Laxmikant V. Kalé,5496.719047619047,hpc
+S LaValle,Steven M. LaValle,438.93333333333334,robotics
+B Godfrey,Brighten Godfrey,11151.923809523802,networks
+P Madhusudan,P. Madhusudan,13864.647619047617,pl
+C Gunter,Carl A. Gunter,3841.057142857142,security
+D Vasisht,Deepak Vasisht,7881.57142857143,networks
+M Hasegawa-Johnson,Mark Hasegawa-Johnson,21607.51904761905,ml
+R Kumar,Ranjitha Kumar,75040.32142857122,hci
+S Misailovic,Sasa Misailovic,13032.009523809513,pl
+L Sha,Lui Sha,70132.76984126985,embedded
+S Sinha,Saurabh Sinha,16719.828571428556,eda
+W Fu,Wai-Tat Fu,1229.8619047619054,hci
+B Bailey,Brian P. Bailey,2021.4333333333338,hci
+M Caccamo,Marco Caccamo,22550.82380952382,embedded
+G Rosu,Grigore Rosu,6534.742857142858,pl
+S Mitra,Sayan Mitra,16865.559523809523,logic
+M Telgarsky,Matus Telgarsky,5849.7333333333345,ml
+S Har-Peled,Sariel Har-Peled,18968.228571428575,theory
+J Hockenmaier,Julia Hockenmaier,15150.899999999992,nlp
+D Kang,Daniel Kang,6005.677777777778,db
+S Adve,Sarita V. Adve,4890.740476190478,arch
+V Adve,Vikram S. Adve,13724.509523809513,arch
+R Mittal,Radhika Mittal,7049.380952380951,networks
+O Milenkovic,Olgica Milenkovic,11082.690476190475,ml
+S Vasudevan,Shobha Vasudevan,1762.3666666666666,eda
+R Behrouz,Reyhaneh Jabbarvand Behrouz,0.0,se
+N Borisov,Nikita Borisov,27208.66190476189,security
+K Chandrasekaran,Karthekeyan Chandrasekaran,1068.4333333333334,theory
+M El-Kebir,Mohammed El-Kebir,2695.6047619047595,comp. bio
+I Gupta,Indranil Gupta,21635.514285714293,ml
+K Nahrstedt,Klara Nahrstedt,51097.02619047618,hci
+M Snir,Marc Snir,48295.349999999926,hpc
+E Soltanaghai,Elahe Soltanaghai,3.333333333333333,mobile
+H Sundaram,Hari Sundaram,16931.195238095235,web+ir
+R Alagappan,Ramnatthan Alagappan,3997.938095238095,os
+A Ganesan,Aishwarya Ganesan,2373.780952380954,os
+Y Hu,Yih-Chun Hu,24538.58888888891,security
+C Mendis,Charith Mendis,1834.7904761904758,ml
+Y Park,Yongjoo Park,7211.511111111109,db
+L Varshney,Lav R. Varshney,41.8952380952381,ml
+T Warnow,Tandy J. Warnow,29733.828571428578,comp. bio
+W Gropp,William Gropp,68385.54999999999,hpc
+C Zilles,Craig B. Zilles,4888.095238095238,arch
+R Campbell,Roy H. Campbell,8713.883333333344,metrics
+L Rauchwerger,Lawrence Rauchwerger,7215.752380952378,hpc
+P Smaragdis,Paris Smaragdis,17647.166666666675,ml
+G Agha,Gul A. Agha,28655.485714285707,Unknown
+G Dullerud,Geir E. Dullerud,1879.9619047619055,Unknown
+M Fard,Mani Golparvar Fard,53.666666666666664,vision
+T Kesavadas,Thenkurussi Kesavadas,2760.063492063494,Unknown
+A Kirlik,Alex Kirlik,2754.914285714283,hci
+L Olson,Luke N. Olson,1201.766666666667,Unknown
+T Ringer,Talia Ringer,558.2000000000002,Unknown
+W Sanders,William H. Sanders,932.3000000000003,security
+R Kravets,Robin Kravets,11037.557142857146,Unknown
+B Ludäscher,Bertram Ludäscher,22369.09523809524,Unknown
+D Padua,David A. Padua,13789.74523809524,Unknown
+V Stodden,Victoria Stodden,5457.192857142862,Unknown

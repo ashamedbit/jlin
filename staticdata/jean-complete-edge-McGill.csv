@@ -1,0 +1,14 @@
+Source,Target,Type,Id,Label
+G Dudek,K Siddiqi,Undirected,1,7.4
+D Meger,G Dudek,Undirected,2,577.7333333333333
+D Meger,D Nowrouzezahrai,Undirected,3,0.0
+D Meger,P Panangaden,Undirected,4,0.0
+D Meger,M Langer,Undirected,5,0.0
+A Vetta,D Ruths,Undirected,6,0.0
+A Vetta,M Blanchette,Undirected,7,24.0
+A Vetta,B Reed,Undirected,8,368.06666666666683
+P Panangaden,B Pientka,Undirected,9,48.0
+X Si,B Pientka,Undirected,10,3.0
+P Kry,K Siddiqi,Undirected,11,53.333333333333336
+M Blanchette,J Waldispühl,Undirected,12,41.06666666666666
+M Langer,K Siddiqi,Undirected,13,70.66666666666667

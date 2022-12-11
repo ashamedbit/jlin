@@ -1,0 +1,44 @@
+Id,Label,Description,Area
+R Adams,Ryan P. Adams,8404.761904761908,ml
+F Heide,Felix Heide,12126.09285714286,vision
+E Hazan,Elad Hazan,50672.19523809523,ml
+S Weinberg,S. Matthew Weinberg,0.0,theory
+J Lee,Jason D. Lee,59639.588095238214,ml
+P Mittal,Prateek Mittal,18426.979365079365,security
+M Martonosi,Margaret Martonosi,43687.261904761894,arch
+J Rexford,Jennifer Rexford,117469.4253968254,networks
+S Arora,Sanjeev Arora,72925.8428571428,ml
+K Narasimhan,Karthik Narasimhan,10327.580952380948,nlp
+K Jamieson,Kyle Jamieson,40980.55714285716,mobile
+D Walker,David Walker,60888.842857142845,networks
+O Russakovsky,Olga Russakovsky,306181.0952380953,vision
+R Netravali,Ravi Netravali,7869.047619047622,networks
+S Rusinkiewicz,Szymon Rusinkiewicz,44930.34761904765,graphics
+D Wentzlaff,David Wentzlaff,13944.735714285714,arch
+D Chen,Danqi Chen,109253.82539682544,nlp
+Z Kincaid,Zachary Kincaid,2963.5,pl
+H Yu,Huacheng Yu,23876.765873015866,theory
+G Kol,Gillat Kol,1715.2333333333331,theory
+A Narayanan,Arvind Narayanan,45028.578571428574,security
+A Gupta,Aarti Gupta,179456.02380952326,logic
+R Raz,Ran Raz,10675.466666666667,theory
+A Finkelstein,Adam Finkelstein,27702.980952380927,graphics
+W Lloyd,Wyatt Lloyd,9849.869047619044,os
+R Nagpal,Radhika Nagpal,14450.600000000015,robotics
+B Raphael,Benjamin J. Raphael,843.9047619047623,comp. bio
+A Monroy-Hernández,Andrés Monroy-Hernández,11939.633333333335,hci
+D August,David I. August,1211.6999999999998,arch
+M Freedman,Michael J. Freedman,1345.0285714285715,networks
+R Lee,Ruby B. Lee,6473.11190476191,arch
+J Mayer,Jonathan R. Mayer,3126.885714285716,security
+H Seung,H. Sebastian Seung,311.3333333333333,ml
+Z Dvir,Zeev Dvir,2613.7000000000016,theory
+R Tarjan,Robert E. Tarjan,5461.478571428569,theory
+A Korolova,Aleksandra Korolova,5552.209523809522,security
+A Dieng,Adji B. Dieng,0.0,ml
+A Levy,Amit A. Levy,14695.642857142855,os
+E Zhong,Ellen D. Zhong,191.85714285714283,ml
+A Ahmadi,Amir Ali Ahmadi,2.0,robotics
+O Troyanskaya,Olga G. Troyanskaya,7990.566666666669,Unknown
+B Chazelle,Bernard Chazelle,28269.233333333326,Unknown
+P Seymour,Paul D. Seymour,14204.057142857137,Unknown

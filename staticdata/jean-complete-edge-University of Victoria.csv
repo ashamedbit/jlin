@@ -1,0 +1,8 @@
+Source,Target,Type,Id,Label
+A Thomo,B Kapron,Undirected,1,12.666666666666666
+A Thomo,S Chester,Undirected,2,354.30000000000007
+A Thomo,V King,Undirected,3,3.0
+D Damian,A Thomo,Undirected,4,43.53333333333333
+S Chester,B Kapron,Undirected,5,12.666666666666666
+V King,B Kapron,Undirected,6,30.733333333333334
+N Ernst,D Damian,Undirected,7,39.0

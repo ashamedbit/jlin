@@ -1,0 +1,76 @@
+Id,Label,Description,Area
+S Fidler,Sanja Fidler,59790.615079365074,vision
+T Grossman,Tovi Grossman,23232.700000000008,hci
+D Wigdor,Daniel J. Wigdor,20169.42380952382,hci
+A Garg,Animesh Garg,20664.502380952392,robotics
+F Chevalier,Fanny Chevalier,8442.02380952381,hci
+S Sanner,Scott Sanner,8445.523809523818,ai
+K Singh,Karan Singh,10027.442857142858,hci
+T Barfoot,Tim D. Barfoot,1413.4952380952384,robotics
+A Jacobson,Alec Jacobson,9133.53333333333,graphics
+E Grinspun,Eitan Grinspun,20024.26904761907,graphics
+R Grosse,Roger B. Grosse,24569.900000000005,ml
+D Duvenaud,David Duvenaud,42765.10952380951,ml
+R Balakrishnan,Ravin Balakrishnan,36763.85714285713,hci
+A Moshovos,Andreas Moshovos,15232.83333333333,arch
+G Pekhimenko,Gennady Pekhimenko,13930.747619047619,arch
+I Gilitschenski,Igor Gilitschenski,3882.1,robotics
+S Sachdeva,Sushant Sachdeva,3551.4047619047624,theory
+F Shkurti,Florian Shkurti,2566.557142857143,robotics
+A Farzan,Azadeh Farzan,3436.716666666668,pl
+J Kelly,Jonathan Kelly,4680.047619047614,robotics
+C Maddison,Chris J. Maddison,401.12380952380937,ml
+N Papernot,Nicolas Papernot,109990.28809523805,security
+J Ba,Jimmy Ba,239804.59047619047,ml
+S McIlraith,Sheila A. McIlraith,11541.009523809516,ai
+S Ahmed,Syed Ishtiaque Ahmed,431.9642857142859,hci
+D Levin,David I. W. Levin,17436.32380952383,graphics
+A Nikolov,Aleksandar Nikolov,2962.766666666667,theory
+M Erdogdu,Murat A. Erdogdu,202.4,ml
+K Truong,Khai N. Truong,1378.2333333333336,hci
+A Anderson,Ashton Anderson,14019.01428571429,web+ir
+G Hirst,Graeme Hirst,15921.061904761913,nlp
+F Rudzicz,Frank Rudzicz,6312.433333333339,nlp
+F Long,Fan Long,9717.201587301588,se
+N Koudas,Nick Koudas,44485.72380952378,db
+J Burgner-Kahrs,Jessica Burgner-Kahrs,3881.9714285714276,robotics
+S Dickinson,Sven J. Dickinson,10291.519047619047,vision
+B Frey,Brendan J. Frey,8344.623809523808,ml
+S Saraf,Shubhangi Saraf,2334.9000000000005,theory
+N Vijaykumar,Nandita Vijaykumar,9338.4,arch
+J Beck,J. Christopher Beck,1632.419047619048,ai
+D Fleet,David J. Fleet,1302.3952380952371,vision
+D Lindell,David B. Lindell,1375.2000000000003,vision
+A Mariakakis,Alexander Mariakakis,2242.8666666666695,hci
+C Munteanu,Cosmin Munteanu,2972.9476190476194,hci
+M Stumm,Michael Stumm,9963.75952380953,os
+B Li,Baochun Li,131140.81746031737,vision
+D Lie,David Lie,13911.5619047619,security
+F Bacchus,Fahiem Bacchus,13172.833333333336,ai
+M Brudno,Michael Brudno,32708.67619047617,visualization
+M Chechik,Marsha Chechik,18107.961904761913,se
+M Jeffrey,Mark C. Jeffrey,69.76666666666667,arch
+A Jepson,Allan D. Jepson,3975.833333333335,vision
+J Williams,Joseph Jay Williams,1959.3095238095216,hci
+A Goel,Ashvin Goel,45643.29682539676,arch
+R Krishnan,Rahul G. Krishnan,3533.8190476190507,ai
+G Penn,Gerald Penn,7786.890476190479,nlp
+R Soden,Robert Soden,1357.5142857142855,hci
+A Borodin,Allan Borodin,17989.866666666665,ai
+A Brown,Angela Demke Brown,993.1238095238095,db
+E Lara,Eyal de Lara,3806.08253968254,arch
+N Wiebe,Nathan Wiebe,17603.778571428556,theory
+S Zhou,Shurui Zhou,8709.788888888887,se
+M Dehnavi,Maryam Mehri Dehnavi,3.2,hpc
+A Goldenberg,Anna Goldenberg,7298.5285714285765,ml
+Y Ganjali,Yashar Ganjali,15671.033333333335,Unknown
+A Aspuru-Guzik,Alán Aspuru-Guzik,39312.92857142859,ml
+G Bader,Gary D. Bader,2514.8047619047647,Unknown
+Q Morris,Quaid Morris,15971.209523809512,ml
+B Schroeder,Bianca Schroeder,13446.800000000003,Unknown
+T Abdelrahman,Tarek S. Abdelrahman,80.0,Unknown
+S Easterbrook,Steve M. Easterbrook,23458.914285714294,Unknown
+M Fox,Mark S. Fox,1258.1809523809522,Unknown
+M Grüninger,Michael Grüninger,8181.433333333335,Unknown
+K Lyons,Kelly A. Lyons,7110.5309523809565,Unknown
+A Moses,Alan M. Moses,859.0476190476192,Unknown

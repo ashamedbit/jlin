@@ -1,0 +1,54 @@
+Id,Label,Description,Area
+L Guibas,Leonidas J. Guibas,96741.39682539682,vision
+S Savarese,Silvio Savarese,98714.3452380953,vision
+C Manning,Christopher D. Manning,10825.380952380943,nlp
+C Finn,Chelsea Finn,107536.38095238092,ml
+C Ré,Christopher Ré,48419.20873015875,ml
+M Agrawala,Maneesh Agrawala,51532.500000000015,hci
+A Sidford,Aaron Sidford,16234.261904761906,theory
+G Wetzstein,Gordon Wetzstein,28128.533333333355,graphics
+D Boneh,Dan Boneh,193360.29047619062,security
+D Jurafsky,Daniel Jurafsky,114362.54285714283,nlp
+E Brunskill,Emma Brunskill,16527.100000000006,ml
+M Zaharia,Matei Zaharia,205576.5190476189,db
+A Aiken,Alexander Aiken,49069.28730158733,pl
+S Follmer,Sean Follmer,8228.509523809527,hci
+C Liu,C. Karen Liu,51877.558730158715,robotics
+M Bernstein,Michael S. Bernstein,25058.352380952372,hci
+J Bohg,Jeannette Bohg,6608.311904761903,robotics
+C Kozyrakis,Christoforos E. Kozyrakis,56872.95714285718,arch
+D Sadigh,Dorsa Sadigh,14903.692857142856,robotics
+G Valiant,Gregory Valiant,11750.842857142854,ml
+J Duchi,John C. Duchi,40343.81666666666,ml
+Z Durumeric,Zakir Durumeric,27621.39523809524,security
+J Landay,James A. Landay,8411.783333333336,hci
+P Hanrahan,Pat Hanrahan,127434.96666666669,graphics
+S Katti,Sachin Katti,83765.28571428568,networks
+C Potts,Christopher Potts,63165.30714285718,nlp
+K Fatahalian,Kayvon Fatahalian,19570.147619047624,graphics
+A Goel,Ashish Goel,45643.29682539676,ecom
+K Olukotun,Kunle Olukotun,31549.985714285718,arch
+C Barrett,Clark W. Barrett,22809.669047619085,logic
+M Charikar,Moses Charikar,49418.409523809525,theory
+T Hashimoto,Tatsunori B. Hashimoto,2908.9142857142856,ml
+M Horowitz,Mark Horowitz,70479.7666666667,arch
+N McKeown,Nick McKeown,208952.1642857143,networks
+D James,Doug L. James,1570.6999999999994,graphics
+O Khatib,Oussama Khatib,37422.309523809534,robotics
+N Anari,Nima Anari,3111.7666666666664,theory
+W Dally,William J. Dally,18134.54285714287,arch
+O Reingold,Omer Reingold,28765.866666666672,theory
+S Mitra,Subhasish Mitra,16865.559523809523,eda
+K Winstein,Keith Winstein,7054.442857142856,networks
+M Wootters,Mary Wootters,3304.5190476190455,theory
+A Kundaje,Anshul Kundaje,71449.50000000006,ml
+C Piech,Chris Piech,12134.647619047619,ml
+S Batzoglou,Serafim Batzoglou,46301.91904761901,comp. bio
+J Mitchell,John C. Mitchell,17473.899999999994,hci
+J Widom,Jennifer Widom,65969.45714285712,db
+J Ousterhout,John K. Ousterhout,13065.266666666663,networks
+D Engler,Dawson R. Engler,15121.904761904763,security
+R Fedkiw,Ronald Fedkiw,47688.033333333326,graphics
+F Kjolstad,Fredrik Kjolstad,2246.4000000000005,pl
+R Dror,Ron O. Dror,313.43333333333334,Unknown
+M Sahami,Mehran Sahami,34084.14761904761,ml

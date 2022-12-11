@@ -1,0 +1,10 @@
+Source,Target,Type,Id,Label
+K Derpanis,R Wildes,Undirected,1,42.5
+M Jenkin,K Derpanis,Undirected,2,25.000000000000004
+J Gryz,M Jenkin,Undirected,3,18.571428571428577
+J Tsotsos,M Jenkin,Undirected,4,160.93333333333334
+A An,J Gryz,Undirected,5,9.0
+A An,M Papagelis,Undirected,6,183.33333333333331
+P Dymond,M Jenkin,Undirected,7,94.3333333333333
+J Edmonds,J Gryz,Undirected,8,159.0
+J Edmonds,P Dymond,Undirected,9,15.333333333333334

@@ -1,0 +1,82 @@
+Id,Label,Description,Area
+K Shin,Kang G. Shin,6019.916666666666,security
+J Corso,Jason J. Corso,1839.7619047619044,vision
+R Mihalcea,Rada Mihalcea,38969.17619047618,nlp
+H Jagadish,H. V. Jagadish,87.03333333333333,db
+Q Mei,Qiaozhu Mei,38491.10952380948,web+ir
+S Mahlke,Scott A. Mahlke,26599.690476190484,arch
+G Schoenebeck,Grant Schoenebeck,6654.1476190476205,ecom
+S Yu,Stella X. Yu,3035.281746031743,vision
+A Tewari,Ambuj Tewari,28153.580952380955,ml
+T Wenisch,Thomas F. Wenisch,1744.3095238095236,arch
+E Adar,Eytan Adar,22113.428571428565,hci
+J Mars,Jason Mars,18486.090476190475,arch
+L Tang,Lingjia Tang,22989.35793650794,arch
+T Saranurak,Thatchaphol Saranurak,2769.733333333334,theory
+F Schaub,Florian Schaub,16966.871428571423,hci
+M Chowdhury,Mosharaf Chowdhury,109066.51428571432,networks
+R Das,Reetuparna Das,15800.195238095233,arch
+R Dreslinski,Ronald G. Dreslinski,4745.766666666667,arch
+D Fouhey,David F. Fouhey,1635.5095238095234,vision
+B Mozafari,Barzan Mozafari,12382.219047619048,db
+S Pettie,Seth Pettie,5228.2,theory
+D Blaauw,David T. Blaauw,85403.37142857141,arch
+O Jenkins,Odest Chadwicke Jenkins,129.7,robotics
+D Koutra,Danai Koutra,14100.821428571437,ml
+H Madhyastha,Harsha V. Madhyastha,104.83333333333331,networks
+S Narayanasamy,Satish Narayanasamy,9596.771428571417,arch
+W Weimer,Westley Weimer,29255.019047619047,se
+V Bertacco,Valeria Bertacco,15061.964285714284,eda
+D Jurgens,David Jurgens,6088.533333333333,nlp
+E Lee,Euiwoong Lee,9135.661904761904,theory
+A Owens,Andrew Owens,17171.219047619048,vision
+D Berenson,Dmitry Berenson,10936.87619047619,robotics
+T Mudge,Trevor N. Mudge,102871.02063492064,arch
+M Nebeling,Michael Nebeling,3355.6952380952366,hci
+T Dillahunt,Tawanna Dillahunt,8003.799999999997,hci
+M Liu,Mingyan Liu,37464.795238095176,ml
+C Peikert,Chris Peikert,38338.79999999999,crypto
+J Chai,Joyce Y. Chai,3830.9190476190483,nlp
+E Gilbert,Eric Gilbert,18461.24285714285,hci
+M Newman,Mark W. Newman,9512.661904761912,hci
+M Wellman,Michael P. Wellman,1179.9761904761908,ai
+S Oney,Steve Oney,3134.4095238095256,hci
+A Sample,Alanson P. Sample,4230.528571428573,hci
+R Ensafi,Roya Ensafi,4201.290476190476,security
+M Derezinski,Michal Derezinski,521.4666666666667,ml
+K Fu,Kevin Fu,21524.20476190477,security
+A Guo,Anhong Guo,4809.00476190476,hci
+B Kuipers,Benjamin Kuipers,14314.433333333329,robotics
+I Markov,Igor L. Markov,1496.895238095239,eda
+V Nagarajan,Viswanath Nagarajan,7350.928571428575,theory
+T Austin,Todd M. Austin,41515.94523809523,arch
+G Bodwin,Gregory Bodwin,877.3000000000001,theory
+M Kapritsos,Manos Kapritsos,3746.7238095238095,os
+X Nguyen,XuanLong Nguyen,1255.7047619047626,ml
+M Ackerman,Mark S. Ackerman,4204.695238095236,hci
+D Jain,Dhruv Jain,2741.2952380952356,hci
+J Laird,John E. Laird,4439.799999999998,ai
+C Budak,Ceren Budak,4114.347619047619,web+ir
+K Collins-Thompson,Kevyn Collins-Thompson,7980.766666666665,web+ir
+J Hayes,John P. Hayes,3830.1428571428564,eda
+J Jeannin,Jean-Baptiste Jeannin,0.0,logic
+C Scott,Clayton Scott,15710.89523809523,ml
+L Balzano,Laura Balzano,9769.56190476191,ml
+R Dick,Robert P. Dick,739.304761904762,hci
+M Cheraghchi,Mahdi Cheraghchi,2404.166666666667,theory
+H Kim,Hun-Seok Kim,48740.91507936505,mobile
+D Romero,Daniel M. Romero,2346.361904761904,web+ir
+G Tzimpragos,Georgios Tzimpragos,552.7285714285714,arch
+M Makar,Maggie Makar,1620.580952380952,ai
+C Omar,Cyrus Omar,1495.7523809523805,pl
+E Provost,Emily Mower Provost,89.6,ai
+Z Syed,Zeeshan Syed,170.8666666666667,ai
+M New,Max S. New,48.0,pl
+B Noble,Brian D. Noble,5567.166666666665,mobile
+K Sakallah,Karem A. Sakallah,2577.2333333333345,Unknown
+B Fish,Benjamin Fish,588.8952380952384,Unknown
+J Fessler,Jeffrey A. Fessler,390.4,Unknown
+M Guzdial,Mark Guzdial,29770.852380952358,Unknown
+V Kamat,Vineet R. Kamat,846.7809523809526,Unknown
+D Kieras,David E. Kieras,1713.1000000000008,Unknown
+S Lafortune,Stéphane Lafortune,27533.985714285704,Unknown

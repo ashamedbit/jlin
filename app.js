@@ -18,7 +18,7 @@ $(document).ready(function() {
       return Object.keys(object).find(key => object[key] === value);
     }
 
-    var allGroup = ["University of waterloo", "University of toronto", "University of british columbia"]
+    var allGroup = ['Cornell', 'UT Austin', 'University of Pennsylvania', 'University of Maryland', 'UWisconsin Madison', 'University of Washington', 'Purdue', 'UCSD', 'Columbia', 'UMICHIGAN', 'Georgia Institute of Technology', 'MIT', 'CMU', 'UC Berkeley', 'Princeton', 'Stanford', 'New York University', 'UIUC', 'UCLA', 'Northeastern', 'University of Victoria', 'McGill', 'Simon Fraser University', 'University of Montreal', 'University of Toronto', 'Carleton University', 'University of Waterlooo', 'York University', 'University of Alberta', 'University of British Columbia']
 
     // Initialize the button
     var dropdownButton = d3.select(".switch")
@@ -36,21 +36,7 @@ $(document).ready(function() {
       dropdownButton.on("change", function(d) {
 
         var selectedOption = d3.select(this).property("value")
-
-        if (selectedOption == "University of waterloo")
-        {
-          processsData('uw')
-        }
-        else if (selectedOption == "University of toronto")
-        {
-          processsData('ut')
-        }
-        else if (selectedOption == "University of british columbia")
-        {
-          processsData('bc')
-        }
-     
-    
+        processsData(selectedOption)
         // run the updateChart function with this selected option
       
     })
@@ -77,14 +63,7 @@ $(document).ready(function() {
     .style("visibility", "hidden")
     .text("here is hidden div");
 
-    var allGroup = ["before 2000", "before 2005", "before 2010", "nefore 2015","present"]
-
-    
-
-         
-
-
-    
+    processsData(allGroup[0])
       
     function processsData(university)
     {
@@ -100,7 +79,7 @@ $(document).ready(function() {
       var areas = {}
       var unique_colors = []
 
-      d3.csv('data/jean-complete-node_'+university+'.csv', function(d) {
+      d3.csv('data/jean-complete-node-'+university+'.csv', function(d) {
         // convert to numerical values
         //console.log(d)
         return d
@@ -128,7 +107,7 @@ $(document).ready(function() {
             }
             obj.group = areas[data[i].Area];
             obj.title = data[i].Label;
-            obj.description = data[i].Description;
+            obj.description = Math.log(data[i].Description);
             obj.area = data[i].Area;
             nodeloc[data[i].Id] = i;
             nodes.push(obj);
@@ -165,7 +144,7 @@ $(document).ready(function() {
 
     
 
-    d3.csv('data/jean-complete-edge_'+university+'.csv', function(d) {
+    d3.csv('data/jean-complete-edge-'+university+'.csv', function(d) {
         // convert to numerical values
         //console.log(d)
         return d
@@ -184,7 +163,7 @@ $(document).ready(function() {
             obj.source = data[i].Source
             obj.target = data[i].Target
             obj.value = (data[i].Id)
-            obj.linkStrokeWidth = data[i].Label*0.005
+            obj.linkStrokeWidth = Math.min(20, Math.max(2,data[i].Label*0.01))
             links.push(obj);
         }
        
@@ -207,12 +186,12 @@ $(document).ready(function() {
           nodeId: d => d.id,
           nodeGroup: d => d.group,
           nodeTitle: d=> d.title,
-          nodeRadius: d=> d.description*0.0016,
+          nodeRadius: d=> d.description,
           linkStrokeWidth: l => l.linkStrokeWidth,
           colors: unique_colors,
     
-          width: 3500,
-          height: 3500,
+          width: 1500,
+          height: 1500,
           invalidation // a promise to stop the simulation when the cell is re-run
         })
            

@@ -1,0 +1,94 @@
+Id,Label,Description,Area
+R Ramamoorthi,Ravi Ramamoorthi,58318.7095238095,graphics
+M Chandraker,Manmohan Krishna Chandraker,18210.38095238094,vision
+N Vasconcelos,Nuno Vasconcelos,33095.11428571428,vision
+T Berg-Kirkpatrick,Taylor Berg-Kirkpatrick,9594.566666666675,nlp
+D Kane,Daniel M. Kane,6809.028571428569,theory
+J McAuley,Julian J. McAuley,24498.023809523824,nlp
+F Koushanfar,Farinaz Koushanfar,36946.71904761907,eda
+Z Tu,Zhuowen Tu,86747.67857142854,vision
+S Savage,Stefan Savage,146929.7761904763,metrics
+H Christensen,Henrik I. Christensen,5853.6142857142895,robotics
+T Rosing,Tajana Rosing,11064.073809523796,eda
+A Kahng,Andrew B. Kahng,2232.3095238095248,eda
+G Voelker,Geoffrey M. Voelker,4852.30238095238,metrics
+Z Hu,Zhiting Hu,29519.38015873016,ml
+S Lovett,Shachar Lovett,6164.742857142858,theory
+K Chaudhuri,Kamalika Chaudhuri,18172.100000000002,ml
+A Snoeren,Alex C. Snoeren,1220.0999999999997,metrics
+N Atanasov,Nikolay Atanasov,8610.528571428578,robotics
+J Shang,Jingbo Shang,10573.96428571429,nlp
+J Zhao,Jishen Zhao,42156.986507936504,arch
+M Bellare,Mihir Bellare,96607.09047619051,crypto
+P Xie,Pengtao Xie,12639.875396825397,ml
+D Bharadia,Dinesh Bharadia,26351.061904761897,networks
+S Swanson,Steven Swanson,5374.657142857144,arch
+R Jhala,Ranjit Jhala,26559.13809523808,pl
+B Saha,Barna Saha,6254.742857142858,theory
+A Mazumdar,Arya Mazumdar,4132.757142857142,ml
+D Tullsen,Dean M. Tullsen,3077.319047619048,arch
+D Stefan,Deian Stefan,6062.771428571433,security
+P Guo,Philip J. Guo,530.1071428571429,hci
+S Lerner,Sorin Lerner,13725.22380952381,pl
+M Yip,Michael C. Yip,665.302380952381,robotics
+S Dow,Steven Dow,7473.914285714288,hci
+H Xia,Haijun Xia,3211.845238095236,hci
+R Kastner,Ryan Kastner,12099.857142857143,eda
+A Schulman,Aaron Schulman,5109.580952380951,metrics
+Y Wang,Yusu Wang,165556.23809523834,ml
+R Yu,Rose Yu,7689.138095238091,ml
+M Belkin,Mikhail Belkin,36979.866666666676,ml
+D Micciancio,Daniele Micciancio,21345.57619047618,crypto
+N Heninger,Nadia Heninger,15321.152380952379,security
+P Pevzner,Pavel A. Pevzner,6779.642857142852,comp. bio
+E Fernandes,Earlence Fernandes,30926.928571428576,security
+S Gao,Sicun Gao,9096.036507936506,ai
+T Javidi,Tara Javidi,8147.866666666667,ml
+T Li,Tzu-Mao Li,43258.79761904761,graphics
+N Polikarpova,Nadia Polikarpova,2012.5952380952383,pl
+T Rahman,Tauhidur Rahman,2409.3904761904782,hci
+M Tolley,Michael Thomas Tolley,4364.2333333333345,robotics
+N Weibel,Nadir Weibel,4396.54761904762,hci
+G Cottrell,Garrison W. Cottrell,7269.4809523809545,ai
+H Jin,Haojian Jin,18698.68968253967,hci
+S Klemmer,Scott R. Klemmer,5592.752380952382,hci
+A Chern,Albert Chern,291.99999999999994,graphics
+H Jensen,Henrik Wann Jensen,61.666666666666664,graphics
+D Kriegman,David J. Kriegman,14527.04285714286,vision
+L Saul,Lawrence K. Saul,10329.233333333337,ml
+R Impagliazzo,Russell Impagliazzo,34722.70000000001,theory
+P Pannuto,Pat Pannuto,6824.135714285713,mobile
+B Salimi,Babak Salimi,672.9000000000001,db
+T Weng,Tsui-Wei Weng,4798.200000000003,ml
+A Deutsch,Alin Deutsch,18815.838095238105,db
+N Gravish,Nick Gravish,3939.5333333333333,robotics
+Y Papakonstantinou,Yannis Papakonstantinou,40087.4,db
+G Porter,George Porter,19670.152380952375,networks
+L Riek,Laurel D. Riek,265.79999999999995,robotics
+K Vaccaro,Kristen Vaccaro,4787.2,hci
+M ElSherief,Mai ElSherief,2347.1476190476196,nlp
+W Griswold,William G. Griswold,3965.1238095238073,hci
+S Herbert,Sylvia L. Herbert,1665.3999999999999,robotics
+E Wang,Edward Jay Wang,3234.3880952380964,hci
+A Yu,Angela J. Yu,2742.083333333333,ml
+L Bergen,Leon Bergen,3295.5714285714294,nlp
+Y Freund,Yoav Freund,82025.08571428576,ml
+L Irani,Lilly Irani,7038.10476190476,hci
+A Ousterhout,Amy Ousterhout,4135.466666666667,networks
+B Ustun,Berk Ustun,2570.857142857144,ml
+J Hollan,James D. Hollan,12475.709523809528,hci
+C Jensen,Carlos Jensen,6282.800000000003,se
+S Mirarab,Siavash Mirarab,28103.314285714296,comp. bio
+V Bafna,Vineet Bafna,23065.04761904763,comp. bio
+M Coblenz,Michael J. Coblenz,1202.457142857143,se
+A Orailoglu,Alex Orailoglu,5429.066666666669,eda
+S Buss,Samuel R. Buss,2743.819047619048,Unknown
+R Knight,Rob Knight,217324.55238095202,hci
+A Vardy,Alexander Vardy,19683.18095238094,Unknown
+N Bandeira,Nuno Bandeira,9314.942857142873,Unknown
+Y Fainman,Yeshaiahu Fainman,23728.84523809526,Unknown
+Y Ma,Yian Ma,141895.78174603175,Unknown
+J Politz,Joe Gibbs Politz,1.5,Unknown
+T Sejnowski,Terrence J. Sejnowski,7643.5619047619,Unknown
+B Touri,Behrouz Touri,1697.1666666666672,Unknown
+V Vianu,Victor Vianu,21763.299999999992,Unknown

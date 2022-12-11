@@ -1,0 +1,73 @@
+Id,Label,Description,Area
+N Smith,Noah A. Smith,4954.240476190475,nlp
+Y Choi,Yejin Choi,69632.41984126977,nlp
+L Zettlemoyer,Luke Zettlemoyer,49865.019047619026,nlp
+H Hajishirzi,Hannaneh Hajishirzi,19501.552380952373,nlp
+B Boots,Byron Boots,13971.747619047619,robotics
+Y Lee,Yin Tat Lee,37710.81190476192,theory
+S Kakade,Sham M. Kakade,22914.145238095243,ml
+S Patel,Shwetak N. Patel,36908.85396825402,hci
+A Krishnamurthy,Arvind Krishnamurthy,80297.05714285705,networks
+J Mankoff,Jennifer Mankoff,36019.58571428576,hci
+S Oh,Sewoong Oh,30026.192857142847,ml
+S Du,Simon S. Du,3401.461904761904,ml
+S Seitz,Steven M. Seitz,4449.866666666667,vision
+J Heer,Jeffrey Heer,51084.28571428572,hci
+A Dey,Anind K. Dey,13276.969841269849,hci
+S Tessaro,Stefano Tessaro,6105.53333333333,crypto
+J Bilmes,Jeff A. Bilmes,16848.12142857144,ml
+J Wobbrock,Jacob O. Wobbrock,3127.333333333334,hci
+J Froehlich,Jon Froehlich,29161.633333333328,hci
+T Kohno,Tadayoshi Kohno,67642.15238095244,security
+R Mahajan,Ratul Mahajan,61276.638095238144,networks
+L Schmidt,Ludwig Schmidt,40432.58571428573,ml
+Y Tsvetkov,Yulia Tsvetkov,11008.86666666667,nlp
+M Cakmak,Maya Cakmak,16284.866666666667,robotics
+L Findlater,Leah Findlater,25903.628571428548,hci
+J Kientz,Julie A. Kientz,6924.128571428571,hci
+B Kasikci,Baris Kasikci,7994.038095238097,arch
+H Lin,Huijia Lin,16881.7727994228,crypto
+F Roesner,Franziska Roesner,37237.93809523811,security
+L Ceze,Luis Ceze,43197.354761904724,arch
+D Suciu,Dan Suciu,66408.15714285716,db
+B Curless,Brian Curless,97648.8333333333,vision
+J Fogarty,James Fogarty,26844.323809523823,hci
+A Hiniker,Alexis Hiniker,5710.890476190476,hci
+J Morgenstern,Jamie Morgenstern,9962.261904761905,ml
+K Reinecke,Katharina Reinecke,5249.966666666667,hci
+E Todorov,Emanuel Todorov,28148.16666666668,robotics
+M Ernst,Michael D. Ernst,1388.8000000000002,se
+K Jamieson,Kevin G. Jamieson,40980.55714285716,ml
+I Kemelmacher-Shlizerman,Ira Kemelmacher-Shlizerman,10434.333333333334,vision
+S Peter,Simon Peter,11841.961904761907,os
+Z Popovic,Zoran Popovic,6802.266666666667,hci
+T Anderson,Thomas E. Anderson,194728.05952380944,networks
+M Balazinska,Magdalena Balazinska,37410.1095238095,db
+R Bodík,Rastislav Bodík,3413.2000000000007,pl
+A Ko,Amy J. Ko,706.1571428571427,hci
+Z Tatlock,Zachary Tatlock,7058.916666666663,pl
+T Althoff,Tim Althoff,5290.014285714283,web+ir
+V Iyer,Vikram Iyer,4538.033333333331,mobile
+D Grossman,Dan Grossman,26260.066666666677,pl
+R Krishna,Ranjay Krishna,30637.045238095256,vision
+T Rothvoß,Thomas Rothvoß,2058.1666666666665,theory
+L Battle,Leilani Battle,4824.935714285715,hci
+G Hsieh,Gary Hsieh,13156.999999999998,hci
+A Karlin,Anna R. Karlin,19623.628571428562,theory
+A Schulz,Adriana Schulz,3201.780952380951,graphics
+R Rao,Rajesh P. N. Rao,16912.323809523816,robotics
+L Shapiro,Linda G. Shapiro,8453.742857142859,vision
+A Zhang,Amy X. Zhang,6575.7253968253945,hci
+R Just,René Just,9757.233333333337,se
+J Lee,James R. Lee,59639.588095238214,theory
+R Anderson,Richard J. Anderson,14979.373809523819,hci
+D Kohlbrenner,David Kohlbrenner,2586.609523809523,security
+A Caliskan,Aylin Caliskan,7758.333333333335,nlp
+S Lee,Su-In Lee,43336.97936507945,ml
+P Beame,Paul Beame,14903.600000000011,theory
+T Mitra,Tanushree Mitra,1392.8333333333335,hci
+A Gupta,Abhishek Gupta,179456.02380952326,ml
+M Oskin,Mark Oskin,10976.14285714286,arch
+C Aragon,Cecilia R. Aragon,6799.657142857143,hci
+G Seelig,Georg Seelig,11842.188095238087,arch
+E Lazowska,Edward D. Lazowska,3419.9571428571426,Unknown

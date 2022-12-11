@@ -1,0 +1,78 @@
+Id,Label,Description,Area
+D Manocha,Dinesh Manocha,111788.1428571429,robotics
+J Boyd-Graber,Jordan L. Boyd-Graber,29282.869841269854,nlp
+J Dickerson,John P. Dickerson,4293.523809523809,ai
+T Goldstein,Tom Goldstein,26552.642857142855,ml
+M Hajiaghayi,MohammadTaghi Hajiaghayi,4620.200000000002,theory
+J Huang,Jia-Bin Huang,47558.331746031705,vision
+A Shrivastava,Abhinav Shrivastava,17725.83174603173,vision
+M Mazurek,Michelle L. Mazurek,1229.2142857142862,security
+J Katz,Jonathan Katz,77557.50952380951,security
+N Elmqvist,Niklas Elmqvist,13718.159523809523,visualization
+M Lin,Ming C. Lin,47257.6619047619,graphics
+Y Aloimonos,Yiannis Aloimonos,12370.08571428572,robotics
+S Feizi,Soheil Feizi,8769.452380952376,ml
+M Zwicker,Matthias Zwicker,20290.364285714273,vision
+D Levin,Dave Levin,17436.32380952383,security
+T Zhou,Tianyi Zhou,94089.90714285712,ml
+P Tokekar,Pratap Tokekar,4338.276190476196,robotics
+P Resnik,Philip Resnik,17553.04761904764,nlp
+A Srinivasan,Aravind Srinivasan,32254.038095238073,theory
+A Bhatele,Abhinav Bhatele,7936.016666666665,hpc
+Z Liu,Zhicheng Liu,64738.659523809474,hci
+M Carpuat,Marine Carpuat,3699.4238095238084,nlp
+T Dumitras,Tudor Dumitras,4809.666666666663,security
+D Dachman-Soled,Dana Dachman-Soled,2336.733333333333,crypto
+I Miers,Ian Miers,14864.138095238097,security
+D Abadi,Daniel J. Abadi,16854.833333333336,db
+A Lazar,Amanda Lazar,4571.5380952380965,hci
+L Dhulipala,Laxman Dhulipala,3656.019047619048,db
+H Peng,Huaishu Peng,11073.34365079364,hci
+R Patro,Rob Patro,24065.123809523822,comp. bio
+X Wu,Xiaodi Wu,34147.1339105339,pl
+N Spring,Neil Spring,28136.595238095237,metrics
+F Huang,Furong Huang,4515.328571428571,ml
+D Oard,Douglas W. Oard,1669.3095238095239,nlp
+N Roy,Nirupam Roy,9738.639682539693,mobile
+A Deshpande,Amol Deshpande,25151.21666666668,db
+A Varshney,Amitabh Varshney,19501.833333333354,visualization
+H Kacorri,Hernisa Kacorri,1170.1523809523812,hci
+M Otte,Michael W. Otte,1191.4571428571428,robotics
+C Castillo,Carlos Domingo Castillo,2873.199999999998,vision
+D Horn,David Van Horn,8456.25238095238,pl
+H Samet,Hanan Samet,29335.490476190465,ml
+D Mount,David M. Mount,433.6333333333333,theory
+P Paredes,Pablo Paredes,1197.3666666666666,hci
+H Bravo,Héctor Corrada Bravo,31.666666666666664,ml
+C Plaisant,Catherine Plaisant,84773.15714285702,visualization
+B Shneiderman,Ben Shneiderman,124538.06190476191,hci
+A Childs,Andrew M. Childs,881.2666666666667,theory
+N Feldman,Naomi Feldman,524.9666666666667,nlp
+L Lampropoulos,Leonidas Lampropoulos,2218.066666666667,pl
+C Metzler,Christopher A. Metzler,617.7666666666663,vision
+E Molloy,Erin K. Molloy,10.0,comp. bio
+D Nau,Dana S. Nau,15970.709523809513,ai
+J Baras,John S. Baras,1865.5476190476184,robotics
+J Golbeck,Jennifer Golbeck,16479.838095238087,hci
+J Lazar,Jonathan Lazar,14168.366666666667,hci
+B Asgari,Bahar Asgari,1492.3428571428576,Unknown
+R Barua,Rajeev Barua,9024.490476190476,Unknown
+V Frías-Martínez,Vanessa Frías-Martínez,35.33333333333333,Unknown
+J Hollingsworth,Jeffrey K. Hollingsworth,736.0666666666666,hpc
+M Leiserson,Mark D. M. Leiserson,0.0,comp. bio
+K Marzullo,Keith Marzullo,12348.314285714281,hci
+A Memon,Atif M. Memon,11939.69523809525,se
+A Porter,Adam A. Porter,7037.761904761902,se
+A Srivastava,Ankur Srivastava,13947.195238095239,robotics
+A Agrawala,Ashok K. Agrawala,10017.099999999997,Unknown
+A Barg,Alexander Barg,6476.023809523808,Unknown
+B Bederson,Benjamin B. Bederson,2873.5380952380956,Unknown
+R Cleaveland,Rance Cleaveland,10368.773809523806,Unknown
+R Duraiswami,Ramani Duraiswami,20619.966666666667,Unknown
+J Grant,John Grant,5526.890476190479,Unknown
+D O'Leary,Dianne P. O'Leary,151.0,Unknown
+D Perlis,Donald Perlis,3195.8285714285716,Unknown
+E Ruppin,Eytan Ruppin,27664.569047619054,Unknown
+A Sussman,Alan Sussman,8918.219047619055,Unknown
+U Vishkin,Uzi Vishkin,17321.33333333333,Unknown
+D Yeung,Donald Yeung,755.5476190476192,Unknown
