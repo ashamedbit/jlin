@@ -7,6 +7,7 @@ def clustering_coefficient(file1, file2):
     num_nodes = 0
     nodes = {}
     country = {}
+    university = {}
 
     with open(file1) as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
@@ -40,37 +41,71 @@ def clustering_coefficient(file1, file2):
                 num_nodes = num_nodes + 1
                 author = row[0]
                 area = row[3]
-                if len(row) == 5:
+                if len(row) >= 5:
                     country[author] = row[4]
+                    university[author] = row[5]
+
                 nodes[author] = area
                 line_count += 1
-    
+
+    # Area graph
+    areas = ['web+ir', 'crypto', 'networks', 'graphics', 'db', 'robotics', 'nlp', 'vision', 'ml', 'se', 'eda', 'comp. bio', 'visualization', 'embedded', 'security', 'hpc', 'ecom', 'logic', 'ai', 'hci', 'os', 'theory', 'pl', 'arch', 'mobile', 'metrics']
+    edges_area = {}
+    num_edges_area = 0
+    for from_vertex in edges.keys():
+        for to_vertex in edges[from_vertex]:
+            area1 = nodes[from_vertex]
+            area2 = nodes[to_vertex]
+            if area1 == "Unknown" or area2 == "Unknown":
+                continue
+
+            if area1 == area2:
+                continue
+            if area1 not in edges_area:
+                edges_area[area1] = set()
+            if area2 not in edges_area:
+                edges_area[area2] = set()
+
+            if area2 not in edges_area[area1]:
+                edges_area[area1].add(area2)
+                edges_area[area2].add(area1)
+                num_edges_area = num_edges_area + 1
+
+    # Local clustering coefficient area
+    local_clustering_coeffiecient_area = num_edges_area/ ((len(areas) * (len(areas) - 1))/2)
+
+
     # Local clustering coefficient
     local_clustering_coeffiecient = num_edges/ ((num_nodes * (num_nodes - 1))/2)
 
-    # Global clustering coefficient
+    # Global clustering coefficient area wise
     closed_triplets = 0
     triplets = 0
-    for node in edges.keys():
-        for vertex1 in edges[node]:
-            for vertex2 in edges[node]:
+    for node in edges_area.keys():
+        for vertex1 in edges_area[node]:
+            for vertex2 in edges_area[node]:
                 # Find number of closed triplets
-                if vertex1 in edges[vertex2]:
+                if vertex1 in edges_area[vertex2]:
                     closed_triplets = closed_triplets + 1
                 # Find number of triplets
                 if vertex1 != vertex2:
                     triplets = triplets + 1
 
 
-    # Global clustering coefficient
-    global_clustering_coefficients = closed_triplets / triplets
+    # Global clustering coefficient area wise
+    if triplets != 0:
+        global_clustering_coefficients = closed_triplets / triplets
+    else:
+        global_clustering_coefficients = 0
 
     print("The local clustering coefficient is : " + str(local_clustering_coeffiecient))
-    print("The global clustering coefficient is : " + str(global_clustering_coefficients))
+    print("The local clustering coefficient  area wise is : " + str(local_clustering_coeffiecient_area))
+    print("The global clustering coefficient area wise is : " + str(global_clustering_coefficients))
 
     # Area level analysis
     same_area = 0
     areas = ['web+ir', 'crypto', 'networks', 'graphics', 'db', 'robotics', 'nlp', 'vision', 'ml', 'se', 'eda', 'comp. bio', 'visualization', 'embedded', 'security', 'hpc', 'ecom', 'logic', 'ai', 'hci', 'os', 'theory', 'pl', 'arch', 'mobile', 'metrics']
+    area_matrix = [[0 for x in range(len(areas))] for y in range(len(areas))] 
     same_areas_counter = [0] * len(areas)
     diff_areas_counter = [0] *len(areas)
 
@@ -82,11 +117,17 @@ def clustering_coefficient(file1, file2):
                     if area == nodes[from_vertex]:
                         same_areas_counter[i] = same_areas_counter[i] + 1
             else:
+                x = 0
+                y = 0
                 for i, area in enumerate(areas):
                     if area == nodes[from_vertex]:
                         diff_areas_counter[i] = diff_areas_counter[i] + 1
+                        x = i
                     if area == nodes[to_vertex]:
                         diff_areas_counter[i] = diff_areas_counter[i] + 1
+                        y = i
+                area_matrix[x][y] = area_matrix[x][y] + 1
+                area_matrix[y][x] = area_matrix[y][x] + 1
 
 
     
@@ -95,7 +136,7 @@ def clustering_coefficient(file1, file2):
     result = []
     for i in range(len(same_areas_counter)):
         if (same_areas_counter[i] != 0) or (diff_areas_counter[i] != 0):
-            result.append(same_areas_counter[i]/ (diff_areas_counter[i] + same_areas_counter[i]))
+            result.append(diff_areas_counter[i]/ (diff_areas_counter[i] + same_areas_counter[i]))
         else:
             result.append(0)
 
@@ -140,8 +181,109 @@ def clustering_coefficient(file1, file2):
 
         print(result)
 
+        min = 100000000000000000000000
+        imin = -1
+        jmin = -1
+        imax = -1
+        jmax = -1
+        max = -1
+        for i in range(len(areas)):
+            for j in range(len(areas)):
+                if i != j:
+                    if area_matrix[i][j] < min:
+                        min = area_matrix[i][j]
+                        imin = i
+                        jmin = j
+                    if area_matrix[i][j] > max:
+                        max = area_matrix[i][j]
+                        imax = i
+                        jmax = j
+
+                    if area_matrix[i][j] == 388:
+                        print("Wooohooo")
+                        print(areas[i])
+                        print(areas[j])
+                    
+        
+
+        print(area_matrix)
+        print("Lowest correlated areas " + areas[imin] + " and " + areas[jmin])
+        print("Highest correlated areas " + areas[imax] + " and " + areas[jmax])
+        print("Lowest value in area matrix : "+ str(min))
+        print("Highest value in area matrix : "+ str(max))
+
+        sankey_source = []
+        sankey_target = []
+        sankey_flow = []
+        uni_map = {}
+        for from_vertex in edges.keys():
+            for to_vertex in edges[from_vertex]:
+                if country[from_vertex] != country[to_vertex]:
+                    source_uni = university[from_vertex]
+                    target_uni = university[to_vertex]
+                    if source_uni == target_uni:
+                        print("Helpppppp")
+                        continue
+
+                    if country[from_vertex] == "canada":
+                        key = source_uni + '_' + target_uni
+                    else:
+                        key = target_uni + '_' + source_uni
+
+                    if key not in uni_map:
+                        uni_map[key] = 1
+                    else:
+                        uni_map[key] = uni_map[key] + 1
+        
+        
+        for key,value in uni_map.items():
+            source_uni = key.split("_")[0]
+            target_uni = key.split("_")[1]
+            flow = value
+            sankey_source.append(source_uni)
+            sankey_target.append(target_uni)
+            sankey_flow.append(flow)
+
+        us_uni = list(set(sankey_source))
+        can_uni = list(set(sankey_target))
+        unis = us_uni + can_uni
+
+        for i,uni in enumerate(sankey_source):
+            pos = unis.index(uni)
+            sankey_source[i] = pos
+        
+        for i,uni in enumerate(sankey_target):
+            pos = unis.index(uni)
+            sankey_target[i] = pos
+
+
+        import plotly.graph_objects as go
+        import plotly.express as px
+
+        fig = go.Figure(data=[go.Sankey(
+            node = dict(
+            pad = 15,
+            thickness = 20,
+            line = dict(color = "black", width = 0.5),
+            label = unis,
+            color = [
+                px.colors.qualitative.Plotly[i % len(px.colors.qualitative.Plotly)]
+                for i,uni in enumerate(unis)
+            ],
+            ),
+            link = dict(
+            source = sankey_source, # indices correspond to labels, eg A1, A2, A1, B1, ...
+            target = sankey_target,
+            value = sankey_flow,
+            color = [
+                px.colors.qualitative.Plotly[int(pos) % len(px.colors.qualitative.Plotly)]
+                for i,pos in enumerate(sankey_source)
+            ],
+        ))])
+
+        fig.update_layout(title_text="Basic Sankey Diagram", font_size=10)
+        fig.show()
+
 
 
     
-
-                
